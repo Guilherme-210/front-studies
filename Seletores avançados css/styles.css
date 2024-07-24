@@ -1,0 +1,12 @@
+/*seleciona um elemento especifico*/
+li:nth-child(2) {
+    color: #f00;
+}
+/*pegou os elementos pares*/
+li:nth-child(2n) {
+    color: rgb(43, 255, 0);
+}
+
+li:nth-child(3n-1) {
+    color: red;
+}

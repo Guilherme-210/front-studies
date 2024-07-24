@@ -1,0 +1,15 @@
+#verd {
+  color: aqua;
+}
+
+h1[class="verde"] {
+  color: #0f0;
+}
+
+h1[class="verde"] {
+  color: rgb(255, 230, 0);
+}
+
+h1 {
+  color: #f00;
+}
