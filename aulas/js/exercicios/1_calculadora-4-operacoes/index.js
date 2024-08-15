@@ -29,3 +29,12 @@ console.log('A multiplicação de ' + val1 + ' por ' + val2 + ', e igual a ' + m
 /*divisão*/
 division = Number(val1) / Number(val2)
 console.log('A divisão de ' + val1 + ' por ' + val2 + ', e igual a ' + division)
+
+/*coreção da aula */
+alert(
+  "Resultados:\n" +
+  "\nSoma: " + addition +
+  "\nSubtração: " + subtraction +
+  "\nMultiplicação: " + multiplication +
+  "\nDivisão: " + division
+)
