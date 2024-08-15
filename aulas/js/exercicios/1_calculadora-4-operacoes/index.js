@@ -5,9 +5,9 @@ Escreve um programa em javascript que permita inserir dois valores numéricos e 
 Após calcular os resultados o programa deve exibi-los na tela.
 */
 let val1 = null
-let val2 = null
-let addition = null
-let subtraction = null
+val2 = null
+addition = null
+subtraction = null
 let multiplication = null
 let division = null
 
